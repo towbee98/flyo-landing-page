@@ -80,7 +80,8 @@ section {
   font-size: small;
 }
 
-.intro .get-started-btn:hover {
+.intro .get-started-btn:hover,
+.get-access div .get-started-btn {
   background-color: #20869c;
   cursor: pointer;
 }
